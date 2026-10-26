@@ -2,7 +2,7 @@
 
 A small deep learning project: a neural network that looks at a face image and predicts one of 7 emotions (angry, disgust, fear, happy, neutral, sad, surprise), plus a Streamlit app where you upload a face photo and see the prediction.
 
-**Live app:** APP_LINK
+**Live app:** [APP_LINK](https://emotion-recognition-fer2013.streamlit.app/)
 
 ## Dataset
 [FER2013](https://www.kaggle.com/datasets/msambare/fer2013): 48×48 grayscale face images, 7 classes.
